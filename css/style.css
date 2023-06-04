@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+.body_container{
+    background-image: linear-gradient(cornflowerblue, white);
+}
+#chapters .card{
+    background-color: lightgray;
+}
+#chapters .card-body{
+    padding: 2px 6px !important;
+}
+#chapters .card-body a{
+    color: navy;
+}
+#chapter1_content p strong{
+    color: #FF5F1F;
+    font-size: x-large;
+}
